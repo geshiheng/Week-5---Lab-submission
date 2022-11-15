@@ -10,8 +10,5 @@ if __name__ == '__main__':
     winner = None
     while winner == None:
         print("TODO: take a turn!")
-        # TODO: Show the board to the user.
-        # TODO: Input a move from the player.
-        # TODO: Update the board.
-        # TODO: Update who's turn it is.
+      
         winner = 'X'  # FIXME
